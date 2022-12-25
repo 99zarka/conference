@@ -1,12 +1,12 @@
 
 .mycard {
-    background: transparent linear-gradient(180deg, #C4EEF2 0%, #EAF9FB 100%) 0% 0% no-repeat padding-box;
+    background: transparent linear-gradient(180deg, #4c33da 0%, #EAF9FB 100%) 0% 0% no-repeat padding-box;
     box-shadow: 8px 8px 0px #0000001A;
     opacity: 1;
 }
 
 .btn-primary{
-    background-color: #16558C;
+    background-color: #4c33da;
 }
 
 .btn-circle.btn-xl {
